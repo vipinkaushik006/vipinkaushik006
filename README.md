@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vipin Kaushik</h1>
+<h3 align="center">Aspiring Data Analyst | DevOps Learner | Tech Enthusiast 🚀</h3>
 
-<!--
-**vipinkaushik006/vipinkaushik006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🙋‍♂️ About Me
+- 🎓 B.Tech Student  
+- 📊 Learning **Data Analytics & Machine Learning**
+- ⚙️ Exploring **DevOps & Cloud**
+- 🎯 Goal: Get a job in Tech (Data / DevOps / Software)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+### 👨‍💻 Programming
+- Python
+- SQL
+- Java (Basics)
+
+### 📊 Data Analytics
+- Pandas
+- NumPy
+- Matplotlib
+- Power BI
+
+### ⚙️ Tools & Technologies
+- Git & GitHub
+- Linux
+- AWS (Basics)
+- Jupyter Notebook
+
+---
+
+## 📈 Currently Learning
+- Machine Learning
+- Advanced SQL
+- Docker & CI/CD
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: (apna link daalna)
+- 📧 Email: (apni email daalna)
+
+---
+
+⭐️ From [Vipin Kaushik](https://github.com/)
