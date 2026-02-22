@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Aspiring+Data+Analyst;DevOps+Learner;Tech+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vipinkaushik006&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
+</p>
+
 ---
 
 ## 🙋‍♂️ About Me
@@ -63,13 +67,28 @@
 - Building Frontend Projects using HTML, CSS, JavaScript & Tailwind  
 - Practicing SQL and Data Analysis  
 - Learning DevOps tools and Cloud basics  
-- Improving problem solving skills 
+- Improving problem solving skills
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: www.linkedin.com/in/vipin-kaushik006
-- 📧 Email: vipinkaushik006@gmail.com
+
+<p align="center">
+  <a href=" www.linkedin.com/in/vipin-kaushik006">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="vipinkaushik006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
